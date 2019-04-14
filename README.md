@@ -1,2 +1,10 @@
-# Web and mobile software development that is performed by experts
-Do you have an idea? We have a divine approach!
+# **GODFIX SOFTWARE**
+Best practices for modern application development
+
+* Business Analysis
+* Web Development
+* Mobile Development
+* Software Support
+
+![Image of header]
+(https://godfix.github.io/img/header.jpg)
